@@ -42,3 +42,11 @@ bars the harness sent, so two runs on the same data give the same orders.
 ## License
 
 MIT
+
+## Verified grade-local
+
+`grade-local` (dev window, process driver, commit b125213): net PnL
++$14.22 (14,224,840 quote units), 5 trades, win rate 66.7%, max drawdown
+1.20%, compliant.
+
+Repo: https://github.com/burnokew-oss/btc-1444-v15c
